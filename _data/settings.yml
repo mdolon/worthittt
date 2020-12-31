@@ -18,14 +18,14 @@ menu_settings:
 footer_settings:
   logo_image:
   logo_width: 200
-  footer_tagline: The best gifts available on the internet.
+  footer_tagline: Stuff worth buying.
 
 grid_settings:
   overlay_opacity: 0.8
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/f/mayllkaw'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
